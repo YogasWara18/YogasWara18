@@ -15,12 +15,11 @@
 
 ###
 
-<br clear="both">
-<img align="right" height="100" z-index="4000" src="https://i.pinimg.com/originals/17/e2/c6/17e2c6203b8425b83d54b76d90c81961.gif"  />
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogasWara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YogasWara18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br clear="both">
+<img align="right" height="100" src="https://i.pinimg.com/originals/17/e2/c6/17e2c6203b8425b83d54b76d90c81961.gif"  />
 </div>
 
 ###
