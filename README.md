@@ -2,7 +2,7 @@
 
 ![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/71223cd4-5893-45a9-a5c5-67b10bb59dd5)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=25&left=true&vLeft=true&width=100&lines=+🌐+Socials:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=25&left=true&vLeft=true&width=500&lines=+🌐+Socials:)](https://git.io/typing-svg)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yogas_46072) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yogaswara04) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Teukukurnia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Yogaswarr) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@YogasWara18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teukukurniayogaswara@gmail.com) 
 
 # 💻 Tech Stack:
