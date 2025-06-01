@@ -2,11 +2,6 @@
 
 ![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/71223cd4-5893-45a9-a5c5-67b10bb59dd5)
 
-
-# 💫 About Me:
-I am a fullstack developer, especially in the field of web development 💻<br>I am very interested in the world of technology, and I will always try to improve my skills in the field I work in.<br>I graduated from the Purwadhika digitak school bootcamp as a fullstack web developer
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yogas_46072) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yogas Wara) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yogaswara04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/T kurnia yogaswara) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Teukukurnia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Teukukurnia yogaswara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Yogaswarr) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@YogasWara18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teukukurniayogaswara@gmail.com) 
 
