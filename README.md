@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="125" src="https://i.pinimg.com/originals/c5/be/30/c5be30d266df6e03bc44c9515fa33b4a.gif"  />
+<img align="right" height="125" src="https://i.pinimg.com/originals/78/d3/8d/78d38d30210c2e7c612d941bc1f7c8ef.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogasWara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
