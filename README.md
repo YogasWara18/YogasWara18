@@ -11,8 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=25&left=true&pLeft=true&width=1000&lines=+📊+GitHub+Stats:)](https://git.io/typing-svg)   
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YogasWara18&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-    <br clear="both">
-<img position="center" align="right" height="125" src="https://i.pinimg.com/originals/17/e2/c6/17e2c6203b8425b83d54b76d90c81961.gif"  />
 </div>
 
 ###
