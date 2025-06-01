@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" bottom="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw1OWY5ZmVoY3BoZDMycTV0MXJrOGgzOWoxYnZ5OTVidHhubWttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cA3svlDIJ0bdu/giphy.gif"  />
+<img align="right" height="150" width="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw1OWY5ZmVoY3BoZDMycTV0MXJrOGgzOWoxYnZ5OTVidHhubWttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cA3svlDIJ0bdu/giphy.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogasWara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
