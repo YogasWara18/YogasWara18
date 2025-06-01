@@ -11,6 +11,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=25&left=true&pLeft=true&width=1000&lines=+📊+GitHub+Stats:)](https://git.io/typing-svg)   
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YogasWara18&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <br clear="both">
+<img top="500" align="right" height="100" src="https://i.pinimg.com/originals/17/e2/c6/17e2c6203b8425b83d54b76d90c81961.gif"  />
 </div>
 
 ###
@@ -18,8 +20,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogasWara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YogasWara18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <br clear="both">
-<img top="500" align="right" height="100" src="https://i.pinimg.com/originals/17/e2/c6/17e2c6203b8425b83d54b76d90c81961.gif"  />
 </div>
 
 ###
