@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YogasWara18&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
     <br clear="both">
-<img top="500" align="right" height="100" src="https://i.pinimg.com/originals/17/e2/c6/17e2c6203b8425b83d54b76d90c81961.gif"  />
+<img position="top" align="right" height="400" src="https://i.pinimg.com/originals/17/e2/c6/17e2c6203b8425b83d54b76d90c81961.gif"  />
 </div>
 
 ###
