@@ -16,7 +16,7 @@
 ###
 
 <br clear="both">
-<img align="right" height="100" src="https://i.pinimg.com/originals/99/4c/f8/994cf894ea11bacd972d08dfa0dea5cc.gif"  />
+<img align="right" height="10" src="https://i.pinimg.com/originals/99/4c/f8/994cf894ea11bacd972d08dfa0dea5cc.gif"  />
 
 
 <div align="center">
