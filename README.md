@@ -10,8 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=25&left=true&pLeft=true&width=1000&lines=+📊+GitHub+Stats:)](https://git.io/typing-svg)   
 
-<img align="left" height="80" src="https://i.pinimg.com/originals/0e/56/5f/0e565f25ae37617a1c7ae7062ecae777.gif"  />
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YogasWara18&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
