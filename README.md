@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=25&left=true&pLeft=true&width=1000&lines=+📊+GitHub+Stats:)](https://git.io/typing-svg)   
 
 <br clear="both">
-<img align="left" height="100" src="https://i.pinimg.com/originals/0e/56/5f/0e565f25ae37617a1c7ae7062ecae777.gif"  />
+<img align="right" height="100" src="https://i.pinimg.com/originals/0e/56/5f/0e565f25ae37617a1c7ae7062ecae777.gif"  />
 
 
 <div align="center">
