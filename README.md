@@ -10,13 +10,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=25&left=true&pLeft=true&width=1000&lines=+📊+GitHub+Stats:)](https://git.io/typing-svg)   
 
+<img align="left" height="80" src="https://i.pinimg.com/originals/0e/56/5f/0e565f25ae37617a1c7ae7062ecae777.gif"  />
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YogasWara18&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="125" src="https://i.pinimg.com/originals/b4/79/d0/b479d0222e79476942283dcda1fe82aa.gif"  />
+<img align="right" height="125" src="https://i.pinimg.com/originals/99/4c/f8/994cf894ea11bacd972d08dfa0dea5cc.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogasWara18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
