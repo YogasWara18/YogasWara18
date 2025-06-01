@@ -11,9 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yogaswara&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yogaswara&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaswara&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![retrowave-style-s-arcade-gaming-club-console-generative-ai-theme-271712011 (1)](https://github.com/user-attachments/assets/b3d86dcf-b290-4d6f-9a75-cf8bf5a74080)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaswara&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
